@@ -1,0 +1,25 @@
+# Chaves e credenciais
+*.pem
+*.ppk
+*.key
+*.p12
+*.pfx
+.env
+.env.*
+credentials
+
+# AWS
+.aws/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
+
+# Temporários
+*.log
+*.tmp
+*.bak
