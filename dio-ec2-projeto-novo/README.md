@@ -392,31 +392,6 @@ Durante o laboratório, foi possível compreender que:
 
 ---
 
-## Evidências
-
-As capturas de tela devem ser armazenadas na pasta `images`.
-
-Sugestões:
-
-```text
-images/01-instancia-criada.png
-images/02-detalhes-instancia.png
-images/03-security-group.png
-images/04-conexao-ssh.png
-images/05-nginx-funcionando.png
-images/06-instancia-encerrada.png
-```
-
-Exemplo para mostrar uma imagem no README:
-
-```markdown
-![Instância em execução](./images/01-instancia-criada.png)
-```
-
-Antes de publicar, oculte informações sensíveis.
-
----
-
 ## Estrutura do projeto
 
 ```text
@@ -429,36 +404,9 @@ dio-lab-gerenciamento-instancias-ec2/
 │   ├── aprendizados.md
 │   ├── comandos-aws-cli.md
 │   └── guia-pratico.md
-├── images/
-│   └── README.md
 └── scripts/
     └── user-data-amazon-linux.sh
 ```
-
----
-
-## Como publicar no GitHub
-
-Nome recomendado para o repositório:
-
-```text
-dio-lab-gerenciamento-instancias-ec2
-```
-
-Comandos:
-
-```bash
-git init
-git add .
-git commit -m "docs: adiciona laboratório de gerenciamento de instâncias EC2"
-git branch -M main
-git remote add origin https://github.com/SEU-USUARIO/dio-lab-gerenciamento-instancias-ec2.git
-git push -u origin main
-```
-
-Substitua `SEU-USUARIO` pelo seu usuário do GitHub.
-
----
 
 ## Referências
 
@@ -471,18 +419,14 @@ Substitua `SEU-USUARIO` pelo seu usuário do GitHub.
 
 ---
 
-## Autor
-
-Desenvolvido por **SEU NOME** durante a formação da DIO.
-
 GitHub:
 
 ```text
-https://github.com/SEU-USUARIO
+https://github.com/Luis1Santos1
 ```
 
 LinkedIn:
 
 ```text
-https://www.linkedin.com/in/SEU-PERFIL/
+[https://www.linkedin.com/in/SEU-PERFIL/](https://www.linkedin.com/in/luis-fernando-santos-rosa/)
 ```
