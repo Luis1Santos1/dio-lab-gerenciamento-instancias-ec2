@@ -397,7 +397,6 @@ Durante o laboratório, foi possível compreender que:
 ```text
 dio-lab-gerenciamento-instancias-ec2/
 ├── README.md
-├── CHECKLIST.md
 ├── .gitignore
 ├── docs/
 │   ├── aprendizados.md
