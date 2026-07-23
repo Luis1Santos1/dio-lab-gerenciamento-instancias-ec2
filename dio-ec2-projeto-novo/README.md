@@ -398,7 +398,6 @@ Durante o laboratório, foi possível compreender que:
 dio-lab-gerenciamento-instancias-ec2/
 ├── README.md
 ├── CHECKLIST.md
-├── ENTREGA-DIO.md
 ├── .gitignore
 ├── docs/
 │   ├── aprendizados.md
